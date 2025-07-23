@@ -1,4 +1,4 @@
-# 📦 QR & Barcode Generator – by Mark Dennis
+# 📦 QR & Barcode Generator – by Mark Dennis V. Manangan
 
 This Python project allows you to generate both **QR codes** and **Code128 barcodes** from any input string. It saves each code as a PNG image and automatically opens it on Windows for quick viewing.
 
